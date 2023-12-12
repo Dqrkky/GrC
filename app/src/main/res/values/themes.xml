@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Grc" parent="@style/Theme.Leanback" />
+</resources>
